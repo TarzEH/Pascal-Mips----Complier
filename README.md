@@ -16,4 +16,4 @@ translates Pascal syntax into MIPS using Bison and Flex and writing in Lex, Yacc
 ![image](https://user-images.githubusercontent.com/70447976/172411923-f46dbdbc-ea78-493f-9b2f-5be88a2cfe9c.png)
 ![image](https://user-images.githubusercontent.com/70447976/172412150-0d020ffa-2d1c-413e-b1c8-c2723ea5be22.png)
 ![image](https://user-images.githubusercontent.com/70447976/172412379-ed3c2ad3-a507-468c-adf1-e795fedd9723.png)
-![image](https://user-images.githubusercontent.com/70447976/172412399-a8f75c29-5f3b-414e-9d9b-a55fe2a29810.png)
+![image](https://user-images.githubusercontent.com/70447976/172412509-fe44becb-5e63-421b-8480-7ffd12b65c5c.png)
