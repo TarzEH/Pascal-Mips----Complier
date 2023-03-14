@@ -1,0 +1,13 @@
+program  Min  /* Finding minimum between two numbers */
+bgn
+let real : a,b;
+    string: d;
+    
+    read(a);
+    read(b);
+    out(d);
+   out(b);
+end
+
+
+

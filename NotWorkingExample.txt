@@ -1,0 +1,11 @@
+program Example bgn
+let	int:x;	
+		
+read(x) ;	
+if   x >= 0) 
+	out(x);
+else     	out(0-x);
+end
+
+
+
